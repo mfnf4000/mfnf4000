@@ -17,6 +17,7 @@
 - I design and maintain **Discord bot setups** to support moderation, automation and quality-of-life features.
 - I value **clarity, documentation and predictable workflows** over flashy but fragile solutions.
 - This GitHub profile serves as a record of ongoing experiments and long-term projects.
+- 🤖 **Vibe coder** – I don't write code from scratch. I direct AI to build what I need, and I make sure it actually works.
 
 ---
 
@@ -47,6 +48,7 @@ Both are treated as **long-term assets**: configuration, behavior and changes ar
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powered%20by-AI-8A2BE2?logo=openai&logoColor=white" />
 </p>
 
 - Primary focus: **practical automation and reliable configurations**.
