@@ -1,6 +1,6 @@
 <!-- Centered intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3200&pause=800&color=FFE81F&center=true&vCenter=true&width=700&lines=A+long+time+ago+in+a+repo+far%2C+far+away...;Welcome+to+the+GitHub+profile+of+Marcus+%2F+mfnf4000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3200&pause=800&color=FFE81F&center=true&vCenter=true&width=700&lines=A+long+time+ago+in+a+repo+far%2C+far+away...;Welcome+to+the+GitHub+profile+of+mfnf4000" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Imperial Development Log</h1>
