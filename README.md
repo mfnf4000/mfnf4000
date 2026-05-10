@@ -1,7 +1,12 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=22&duration=3200&pause=800&color=FFE81F&center=true&vCenter=true&width=700&lines=A+long+time+ago+in+a+repo+far%2C+far+away...;Welcome+to+the+GitHub+profile+of+mfnf4000)](https://git.io/typing-svg)
 
 # Imperial Development Log
-Discord Infrastructure • Systems & Structure • AI-Directed Development
+
+**Discord Infrastructure • Systems & Structure • AI-Directed Development**
+
+</div>
 
 ---
 
@@ -53,11 +58,17 @@ All three are treated as **long-term assets** — configuration, behavior, and c
 - Using bots to **standardize repetitive tasks** and reduce manual overhead for staff.
 - Treating servers as systems: configuration, change logs and feature planning are part of the process.
 
+<div align="center">
+
 > *"Order is not a by-product. It is designed."*
+
+</div>
 
 ---
 
 ## Directive V · Tools & Stack
+
+<div align="center">
 
 ![Discord Bots](https://img.shields.io/badge/Discord-Bots-5865F2?logo=discord&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
@@ -67,6 +78,8 @@ All three are treated as **long-term assets** — configuration, behavior, and c
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
 ![Claude](https://img.shields.io/badge/Powered%20by-Claude-D97757?logo=anthropic&logoColor=white)
+
+</div>
 
 - Primary focus: **practical automation and reliable configurations**.
 - Continuous learning on the coding side, with emphasis on **maintainability** and **clear structure**.
@@ -84,15 +97,21 @@ All three are treated as **long-term assets** — configuration, behavior, and c
 
 ## Directive VII · GitHub Transmission
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfnf4000&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mfnf4000&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfnf4000&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
+
 ---
 
 ## Directive VIII · Communications
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mfnf4000-181717?logo=github&logoColor=white)](https://github.com/mfnf4000)
 [![Twitch](https://img.shields.io/badge/Twitch-f3ngus-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/f3ngus)
@@ -100,3 +119,5 @@ All three are treated as **long-term assets** — configuration, behavior, and c
 [![Steam](https://img.shields.io/badge/Steam-f3ngus-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/id/f3ngus/)
 
 *"Maintain discipline. Maintain structure. The rest follows."*
+
+</div>
